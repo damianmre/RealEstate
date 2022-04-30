@@ -2270,11 +2270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\RealEstate\\RealEstate.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\RealEstate\\RealEstate.csproj",
       "projectName": "RealEstate",
-      "projectPath": "D:\\Projects\\RealEstate\\RealEstate.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\RealEstate\\RealEstate.csproj",
       "packagesPath": "C:\\Users\\Dmeer\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\RealEstate\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\RealEstate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dmeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2342,7 +2342,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
